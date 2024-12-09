@@ -13,11 +13,6 @@ javac Main.java
 java Main.java
 ```
 
-## Examples
-
-In the /screenshots folder, you will find examples for both graph implementations (adjacency list and matrix),\
-as well as both methods of traversal (breadth-first and depth-first)
-
 ## References
 [Adjacency Matrix](https://www.geeksforgeeks.org/adjacency-matrix-meaning-and-definition-in-dsa/)\
 [Adjacency Matrix BFS](https://www.geeksforgeeks.org/implementation-of-bfs-using-adjacency-matrix/)\
